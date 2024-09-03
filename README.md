@@ -4,7 +4,7 @@ Welcome to the HTML and CSS Mastery: Elegant Web Design with QR Code Component p
 
 ## Preview
 
-Visit the live site: [HTML-CSS-Mastery-Elegant-Web-Design](https://655a854234e076057d2c6b28--fastidious-beijinho-eb4322.netlify.app/)
+Visit the live site: [𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃](https://655a854234e076057d2c6b28--fastidious-beijinho-eb4322.netlify.app/)
 
 ## Frontend Mentor Challenge
 
