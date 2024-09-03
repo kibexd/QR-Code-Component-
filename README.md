@@ -1,4 +1,4 @@
-# HTML-CSS-Mastery-Elegant-Web-Design-with-QR-Code-Component
+# HTML CSS Mastery(Web Design with QR Code Component)
 
 Welcome to the HTML and CSS Mastery: Elegant Web Design with QR Code Component project! This project focuses on creating a sleek web design featuring a QR code component.
 
