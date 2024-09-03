@@ -8,10 +8,6 @@ Visit the live site: [𝄃𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃](https://655a854234e0
 
 ## Frontend Mentor Challenge
 
-This project is inspired by a Frontend Mentor challenge - QR Code Component. The goal is to replicate the provided design, showcasing your HTML and CSS skills.
+This project is inspired by a Frontend Mentor challenge - QR Code Component. The goal is to replicate the provided design, showcasing my HTML and CSS skills.
 
-### Challenge Details
 
-- **Designs:** Check the `/design` folder for both mobile and desktop versions in JPG format.
-- **Assets:** All required assets are available in the `/images` folder.
-- **Style Guide:** Refer to the `style-guide.md` for information on the color palette and fonts.
